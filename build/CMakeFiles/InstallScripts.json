@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/demo/template/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
