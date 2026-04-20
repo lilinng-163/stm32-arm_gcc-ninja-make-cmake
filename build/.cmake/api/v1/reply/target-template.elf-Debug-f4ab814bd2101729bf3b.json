@@ -30,19 +30,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 117,
+				"line" : 120,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 97,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 104,
+				"line" : 100,
 				"parent" : 0
 			},
 			{
@@ -54,19 +48,19 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 113,
+				"line" : 110,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 116,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 130,
-				"parent" : 0
-			},
-			{
-				"command" : 3,
-				"file" : 0,
-				"line" : 46,
+				"line" : 133,
 				"parent" : 0
 			},
 			{
@@ -78,25 +72,31 @@
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 62,
+				"line" : 52,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 88,
+				"line" : 65,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 91,
 				"parent" : 0
 			},
 			{
 				"command" : 4,
 				"file" : 0,
-				"line" : 35,
+				"line" : 38,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 0,
-				"line" : 38,
+				"line" : 41,
 				"parent" : 0
 			},
 			{
@@ -181,6 +181,10 @@
 				{
 					"backtrace" : 13,
 					"path" : "E:/demo/template/./Lib/Inc"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "E:/demo/template/./Hardware/Inc"
 				},
 				{
 					"backtrace" : 13,
@@ -333,6 +337,10 @@
 				{
 					"backtrace" : 13,
 					"path" : "E:/demo/template/./Lib/Inc"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "E:/demo/template/./Hardware/Inc"
 				},
 				{
 					"backtrace" : 13,

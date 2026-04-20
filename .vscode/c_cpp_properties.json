@@ -1,4 +1,5 @@
 {
+    //让VS Code知道如何编译和调试C/C++代码
     "configurations": [
         {
             "name": "Win32",

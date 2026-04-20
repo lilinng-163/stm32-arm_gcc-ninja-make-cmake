@@ -1,403 +1,403 @@
 [
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_adc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_adc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_adc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_adc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_adc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_adc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_adc_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_adc_ex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_adc_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_adc_ex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_adc_ex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_adc_ex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_can.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_can.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_can.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_can.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_can.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_can.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_cec.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_cec.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_cec.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_cec.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_cec.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_cec.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_cortex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_cortex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_cortex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_cortex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_cortex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_cortex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_crc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_crc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_crc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_crc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_crc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_crc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_dac.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_dac.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_dac.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_dac.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_dac.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dac.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_dac_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_dac_ex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_dac_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_dac_ex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_dac_ex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dac_ex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_dma.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_dma.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_dma.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_dma.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_dma.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dma.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_eth.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_eth.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_eth.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_eth.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_eth.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_eth.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_exti.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_exti.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_exti.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_exti.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_exti.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_exti.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_flash.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_flash.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_flash.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_flash.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_flash.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_flash.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_flash_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_flash_ex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_flash_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_flash_ex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_flash_ex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_flash_ex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_gpio.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_gpio.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_gpio.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_gpio.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_gpio.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_gpio.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_gpio_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_gpio_ex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_gpio_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_gpio_ex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_gpio_ex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_gpio_ex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_hcd.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_hcd.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_hcd.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_hcd.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_hcd.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_hcd.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_i2c.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_i2c.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_i2c.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_i2c.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_i2c.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_i2c.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_i2s.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_i2s.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_i2s.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_i2s.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_i2s.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_i2s.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_irda.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_irda.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_irda.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_irda.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_irda.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_irda.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_iwdg.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_iwdg.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_iwdg.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_iwdg.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_iwdg.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_iwdg.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_mmc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_mmc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_mmc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_mmc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_mmc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_mmc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_nand.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_nand.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_nand.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_nand.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_nand.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_nand.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_nor.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_nor.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_nor.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_nor.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_nor.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_nor.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_pccard.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_pccard.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_pccard.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_pccard.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_pccard.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pccard.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_pcd.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_pcd.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_pcd.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_pcd.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_pcd.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pcd.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_pcd_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_pcd_ex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_pcd_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_pcd_ex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_pcd_ex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pcd_ex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_pwr.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_pwr.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_pwr.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_pwr.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_pwr.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pwr.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_rcc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_rcc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_rcc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_rcc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_rcc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rcc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_rcc_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_rcc_ex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_rcc_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_rcc_ex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_rcc_ex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rcc_ex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_rtc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_rtc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_rtc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_rtc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_rtc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rtc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_rtc_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_rtc_ex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_rtc_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_rtc_ex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_rtc_ex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rtc_ex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_sd.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_sd.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_sd.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_sd.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_sd.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_sd.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_smartcard.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_smartcard.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_smartcard.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_smartcard.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_smartcard.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_smartcard.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_spi.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_spi.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_spi.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_spi.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_spi.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_spi.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_sram.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_sram.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_sram.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_sram.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_sram.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_sram.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_tim.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_tim.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_tim.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_tim.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_tim.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_tim.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_tim_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_tim_ex.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_tim_ex.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_tim_ex.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_tim_ex.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_tim_ex.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_timebase_tim.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_timebase_tim.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_timebase_tim.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_timebase_tim.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_timebase_tim.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_timebase_tim.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_uart.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_uart.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_uart.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_uart.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_uart.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_uart.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_usart.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_usart.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_usart.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_usart.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_usart.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_usart.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_wwdg.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_wwdg.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_hal_wwdg.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_hal_wwdg.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_hal_wwdg.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_wwdg.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_adc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_adc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_adc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_adc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_adc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_adc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_crc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_crc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_crc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_crc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_crc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_crc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_dac.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_dac.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_dac.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_dac.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_dac.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_dac.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_dma.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_dma.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_dma.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_dma.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_dma.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_dma.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_exti.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_exti.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_exti.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_exti.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_exti.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_exti.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_fsmc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_fsmc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_fsmc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_fsmc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_fsmc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_fsmc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_gpio.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_gpio.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_gpio.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_gpio.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_gpio.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_gpio.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_i2c.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_i2c.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_i2c.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_i2c.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_i2c.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_i2c.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_pwr.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_pwr.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_pwr.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_pwr.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_pwr.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_pwr.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_rcc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_rcc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_rcc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_rcc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_rcc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_rcc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_rtc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_rtc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_rtc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_rtc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_rtc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_rtc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_sdmmc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_sdmmc.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_sdmmc.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_sdmmc.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_sdmmc.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_sdmmc.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_spi.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_spi.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_spi.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_spi.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_spi.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_spi.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_tim.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_tim.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_tim.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_tim.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_tim.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_tim.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_usart.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_usart.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_usart.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_usart.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_usart.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_usart.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_usb.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_usb.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_usb.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_usb.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_usb.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_usb.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_utils.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_utils.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Lib\\Src\\stm32f1xx_ll_utils.c.obj -c E:\\demo\\template\\Lib\\Src\\stm32f1xx_ll_utils.c",
   "file": "E:/demo/template/Lib/Src/stm32f1xx_ll_utils.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_utils.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Startup\\startup_stm32f103xb.s.obj -c E:\\demo\\template\\Startup\\startup_stm32f103xb.s",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\Startup\\startup_stm32f103xb.s.obj -c E:\\demo\\template\\Startup\\startup_stm32f103xb.s",
   "file": "E:/demo/template/Startup/startup_stm32f103xb.s",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/Startup/startup_stm32f103xb.s.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\gpio.c.obj -c E:\\demo\\template\\User\\Src\\gpio.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\gpio.c.obj -c E:\\demo\\template\\User\\Src\\gpio.c",
   "file": "E:/demo/template/User/Src/gpio.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/User/Src/gpio.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\main.c.obj -c E:\\demo\\template\\User\\Src\\main.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\main.c.obj -c E:\\demo\\template\\User\\Src\\main.c",
   "file": "E:/demo/template/User/Src/main.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/User/Src/main.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\stm32f1xx_hal_msp.c.obj -c E:\\demo\\template\\User\\Src\\stm32f1xx_hal_msp.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\stm32f1xx_hal_msp.c.obj -c E:\\demo\\template\\User\\Src\\stm32f1xx_hal_msp.c",
   "file": "E:/demo/template/User/Src/stm32f1xx_hal_msp.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/User/Src/stm32f1xx_hal_msp.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\stm32f1xx_it.c.obj -c E:\\demo\\template\\User\\Src\\stm32f1xx_it.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\stm32f1xx_it.c.obj -c E:\\demo\\template\\User\\Src\\stm32f1xx_it.c",
   "file": "E:/demo/template/User/Src/stm32f1xx_it.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/User/Src/stm32f1xx_it.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\syscalls.c.obj -c E:\\demo\\template\\User\\Src\\syscalls.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\syscalls.c.obj -c E:\\demo\\template\\User\\Src\\syscalls.c",
   "file": "E:/demo/template/User/Src/syscalls.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/User/Src/syscalls.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\sysmem.c.obj -c E:\\demo\\template\\User\\Src\\sysmem.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\sysmem.c.obj -c E:\\demo\\template\\User\\Src\\sysmem.c",
   "file": "E:/demo/template/User/Src/sysmem.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/User/Src/sysmem.c.obj"
 },
 {
   "directory": "E:/demo/template/build",
-  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\system_stm32f1xx.c.obj -c E:\\demo\\template\\User\\Src\\system_stm32f1xx.c",
+  "command": "D:\\arm32-none-none-gnueabi-toolchain\\arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/demo/template/./Lib/Inc -IE:/demo/template/./Hardware/Inc -IE:/demo/template/./User/Inc -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g -o CMakeFiles\\template.elf.dir\\User\\Src\\system_stm32f1xx.c.obj -c E:\\demo\\template\\User\\Src\\system_stm32f1xx.c",
   "file": "E:/demo/template/User/Src/system_stm32f1xx.c",
   "output": "E:/demo/template/build/CMakeFiles/template.elf.dir/User/Src/system_stm32f1xx.c.obj"
 }

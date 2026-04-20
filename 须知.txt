@@ -1,0 +1,1 @@
+使用cmake make/ninja arm-none-eabi-gcc openocd

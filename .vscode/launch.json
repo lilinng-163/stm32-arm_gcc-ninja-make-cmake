@@ -1,4 +1,5 @@
 {
+    //调试配置文件,用于调试器的设置和调试会话的定义。
     // 使用 IntelliSense 了解相关属性。 
     // 悬停以查看现有属性的描述。
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
@@ -20,6 +21,7 @@
             ],
             "runToEntryPoint": "main",
             "showDevDebugOutput": "none",
+            //svd文件用于调试,下载STM32 SVD Downloader插件获取对应文件
             "svdFile": "./STM32F103xx.svd",
             "armToolchainPath":"D:/arm32-none-none-gnueabi-toolchain/arm-gnu-toolchain-15.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin"
         }

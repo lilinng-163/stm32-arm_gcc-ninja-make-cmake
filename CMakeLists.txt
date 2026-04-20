@@ -25,10 +25,13 @@ set(CMAKE_CXX_STANDARD 17)
 
 # ------------------------------------------------文件搜索组装-----------------------------------------
 # 头文件路径
-include_directories(./Lib/Inc ./User/Inc)
+include_directories(./Lib/Inc ./Hardware/Inc ./User/Inc)
 
 #搜索源文件
-file(GLOB SOURCES ./Lib/Src/*.c ./User/Src/*.c ./Startup/*.s ./Cmake/*.*)
+# 也可以编译成库文件,然后链接到目标文件,但是对于单片机项目来说没有必要,直接编译成可执行文件就行了
+# 建议不使用file而是aux_source_directory
+# HAL库配置有一些额外操作比如删掉template等
+file(GLOB SOURCES ./Lib/Src/*.c ./Hardware/Src/*.c ./User/Src/*.c ./Startup/*.s ./Cmake/*.*)
 
 # ------------------------------------------------预处理-----------------------------------------------
 # 添加预处理宏
