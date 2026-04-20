@@ -53,7 +53,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal.c.obj: C_COMPILER__templ
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -63,7 +63,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_adc.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_adc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -73,7 +73,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_adc_ex.c.obj: C_COMPILER
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_adc_ex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -83,7 +83,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_can.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_can.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -93,7 +93,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_cec.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_cec.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -103,7 +103,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_cortex.c.obj: C_COMPILER
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_cortex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -113,7 +113,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_crc.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_crc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -123,7 +123,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dac.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_dac.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -133,7 +133,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dac_ex.c.obj: C_COMPILER
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_dac_ex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -143,7 +143,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dma.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_dma.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -153,7 +153,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_eth.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_eth.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -163,7 +163,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_exti.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_exti.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -173,7 +173,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_flash.c.obj: C_COMPILER_
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_flash.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -183,7 +183,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_flash_ex.c.obj: C_COMPIL
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_flash_ex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -193,7 +193,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_gpio.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_gpio.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -203,7 +203,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_gpio_ex.c.obj: C_COMPILE
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_gpio_ex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -213,7 +213,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_hcd.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_hcd.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -223,7 +223,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_i2c.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_i2c.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -233,7 +233,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_i2s.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_i2s.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -243,7 +243,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_irda.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_irda.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -253,7 +253,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_iwdg.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_iwdg.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -263,7 +263,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_mmc.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_mmc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -273,7 +273,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_nand.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_nand.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -283,7 +283,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_nor.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_nor.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -293,7 +293,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pccard.c.obj: C_COMPILER
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_pccard.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -303,7 +303,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pcd.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_pcd.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -313,7 +313,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pcd_ex.c.obj: C_COMPILER
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_pcd_ex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -323,7 +323,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pwr.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_pwr.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -333,7 +333,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rcc.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_rcc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -343,7 +343,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rcc_ex.c.obj: C_COMPILER
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_rcc_ex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -353,7 +353,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rtc.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_rtc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -363,7 +363,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rtc_ex.c.obj: C_COMPILER
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_rtc_ex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -373,7 +373,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_sd.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_sd.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -383,7 +383,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_smartcard.c.obj: C_COMPI
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_smartcard.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -393,7 +393,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_spi.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_spi.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -403,7 +403,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_sram.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_sram.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -413,7 +413,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_tim.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_tim.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -423,7 +423,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_tim_ex.c.obj: C_COMPILER
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_tim_ex.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -433,7 +433,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_timebase_tim.c.obj: C_CO
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_timebase_tim.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -443,7 +443,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_uart.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_uart.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -453,7 +453,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_usart.c.obj: C_COMPILER_
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_usart.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -463,7 +463,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_wwdg.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_hal_wwdg.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -473,7 +473,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_adc.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_adc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -483,7 +483,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_crc.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_crc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -493,7 +493,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_dac.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_dac.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -503,7 +503,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_dma.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_dma.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -513,7 +513,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_exti.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_exti.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -523,7 +523,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_fsmc.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_fsmc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -533,7 +533,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_gpio.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_gpio.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -543,7 +543,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_i2c.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_i2c.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -553,7 +553,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_pwr.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_pwr.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -563,7 +563,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_rcc.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_rcc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -573,7 +573,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_rtc.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_rtc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -583,7 +583,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_sdmmc.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_sdmmc.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -593,7 +593,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_spi.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_spi.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -603,7 +603,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_tim.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_tim.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -613,7 +613,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_usart.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_usart.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -623,7 +623,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_usb.c.obj: C_COMPILER__te
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_usb.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -633,7 +633,7 @@ build CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_utils.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Lib\Src\stm32f1xx_ll_utils.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Lib\Src
@@ -643,7 +643,7 @@ build CMakeFiles/template.elf.dir/Startup/startup_stm32f103xb.s.obj: ASM_COMPILE
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\Startup\startup_stm32f103xb.s.obj.d
-  FLAGS = -g -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\Startup
@@ -653,7 +653,7 @@ build CMakeFiles/template.elf.dir/User/Src/gpio.c.obj: C_COMPILER__template.2eel
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\User\Src\gpio.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\User\Src
@@ -663,7 +663,7 @@ build CMakeFiles/template.elf.dir/User/Src/main.c.obj: C_COMPILER__template.2eel
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\User\Src\main.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\User\Src
@@ -673,7 +673,7 @@ build CMakeFiles/template.elf.dir/User/Src/stm32f1xx_hal_msp.c.obj: C_COMPILER__
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\User\Src\stm32f1xx_hal_msp.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\User\Src
@@ -683,7 +683,7 @@ build CMakeFiles/template.elf.dir/User/Src/stm32f1xx_it.c.obj: C_COMPILER__templ
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\User\Src\stm32f1xx_it.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\User\Src
@@ -693,7 +693,7 @@ build CMakeFiles/template.elf.dir/User/Src/syscalls.c.obj: C_COMPILER__template.
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\User\Src\syscalls.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\User\Src
@@ -703,7 +703,7 @@ build CMakeFiles/template.elf.dir/User/Src/sysmem.c.obj: C_COMPILER__template.2e
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\User\Src\sysmem.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\User\Src
@@ -713,7 +713,7 @@ build CMakeFiles/template.elf.dir/User/Src/system_stm32f1xx.c.obj: C_COMPILER__t
   CONFIG = Debug
   DEFINES = -DARM_MATH_CM3 -DSTM32F103xB -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\template.elf.dir\User\Src\system_stm32f1xx.c.obj.d
-  FLAGS = -g -std=gnu11 -mfloat-abi=soft -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
+  FLAGS = -g -std=gnu11 -mcpu=cortex-m3 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
   INCLUDES = -IE:/demo/template/./Lib/Inc -IE:/demo/template/./User/Inc
   OBJECT_DIR = CMakeFiles\template.elf.dir
   OBJECT_FILE_DIR = CMakeFiles\template.elf.dir\User\Src
@@ -730,7 +730,7 @@ build CMakeFiles/template.elf.dir/User/Src/system_stm32f1xx.c.obj: C_COMPILER__t
 build template.elf: C_EXECUTABLE_LINKER__template.2eelf_Debug CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_adc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_adc_ex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_can.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_cec.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_cortex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_crc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dac.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dac_ex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_dma.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_eth.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_exti.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_flash.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_flash_ex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_gpio.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_gpio_ex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_hcd.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_i2c.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_i2s.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_irda.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_iwdg.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_mmc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_nand.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_nor.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pccard.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pcd.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pcd_ex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_pwr.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rcc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rcc_ex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rtc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_rtc_ex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_sd.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_smartcard.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_spi.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_sram.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_tim.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_tim_ex.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_timebase_tim.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_uart.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_usart.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_hal_wwdg.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_adc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_crc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_dac.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_dma.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_exti.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_fsmc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_gpio.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_i2c.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_pwr.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_rcc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_rtc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_sdmmc.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_spi.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_tim.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_usart.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_usb.c.obj CMakeFiles/template.elf.dir/Lib/Src/stm32f1xx_ll_utils.c.obj CMakeFiles/template.elf.dir/Startup/startup_stm32f103xb.s.obj CMakeFiles/template.elf.dir/User/Src/gpio.c.obj CMakeFiles/template.elf.dir/User/Src/main.c.obj CMakeFiles/template.elf.dir/User/Src/stm32f1xx_hal_msp.c.obj CMakeFiles/template.elf.dir/User/Src/stm32f1xx_it.c.obj CMakeFiles/template.elf.dir/User/Src/syscalls.c.obj CMakeFiles/template.elf.dir/User/Src/sysmem.c.obj CMakeFiles/template.elf.dir/User/Src/system_stm32f1xx.c.obj
   CONFIG = Debug
   FLAGS = -g
-  LINK_FLAGS = -Wl,-gc-sections,--print-memory-usage,-Map=E:/demo/template/build/template.map -mcpu=cortex-m3 -mthumb -mthumb-interwork -T E:/demo/template/Cmake/STM32F103XX_FLASH.ld -specs=nano.specs -specs=nosys.specs -u _printf_float
+  LINK_FLAGS = -T E:/demo/template/Cmake/STM32F103XX_FLASH.ld -Wl,-gc-sections,--print-memory-usage,-Map=E:/demo/template/build/template.map -mcpu=cortex-m3 -mthumb -mthumb-interwork -specs=nano.specs -specs=nosys.specs -u _printf_float
   OBJECT_DIR = CMakeFiles\template.elf.dir
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D E:\demo\template\build && arm-none-eabi-objcopy -Oihex E:/demo/template/build/template.elf E:/demo/template/build/template.hex && arm-none-eabi-objcopy -Obinary E:/demo/template/build/template.elf E:/demo/template/build/template.bin"
   PRE_LINK = cd .

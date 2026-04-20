@@ -7,7 +7,7 @@ openocd -f ${OPENOCD_PATH}/scripts/interface/stlink-v2-1.cfg \
         -f ${OPENOCD_PATH}/scripts/target/stm32f1x.cfg \
         -c "init" \
         -c "halt" \
-        -c "flash write_image erase build/template.bin 0x08000000" \
-        -c "verify_image build/template.bin 0x08000000" \
+        -c "flash write_image erase build/$(basename "$PWD").bin 0x08000000" \
+        -c "verify_image build/$(basename "$PWD").bin 0x08000000" \
         -c "reset run" \
         -c "shutdown" 

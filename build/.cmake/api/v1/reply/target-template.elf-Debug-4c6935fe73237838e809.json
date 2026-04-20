@@ -30,79 +30,79 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 91,
+				"line" : 117,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 78,
+				"line" : 97,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
-				"file" : 0,
-				"line" : 81,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 84,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 89,
-				"parent" : 0
-			},
-			{
-				"command" : 2,
 				"file" : 0,
 				"line" : 104,
 				"parent" : 0
 			},
 			{
-				"command" : 3,
+				"command" : 1,
 				"file" : 0,
-				"line" : 26,
+				"line" : 107,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 113,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 130,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 28,
+				"line" : 46,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 33,
+				"line" : 49,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
-				"file" : 0,
-				"line" : 57,
-				"parent" : 0
-			},
-			{
-				"command" : 4,
-				"file" : 0,
-				"line" : 22,
-				"parent" : 0
-			},
-			{
-				"command" : 5,
 				"file" : 0,
 				"line" : 62,
 				"parent" : 0
 			},
 			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 35,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 38,
+				"parent" : 0
+			},
+			{
 				"command" : 6,
 				"file" : 0,
-				"line" : 65,
+				"line" : 28,
 				"parent" : 0
 			}
 		]
@@ -122,19 +122,19 @@
 				},
 				{
 					"backtrace" : 7,
-					"fragment" : "-mfloat-abi=soft"
-				},
-				{
-					"backtrace" : 8,
 					"fragment" : "-mcpu=cortex-m3"
 				},
 				{
-					"backtrace" : 8,
+					"backtrace" : 7,
 					"fragment" : "-mthumb"
 				},
 				{
-					"backtrace" : 8,
+					"backtrace" : 7,
 					"fragment" : "-mthumb-interwork"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-mfloat-abi=soft"
 				},
 				{
 					"backtrace" : 9,
@@ -274,19 +274,19 @@
 				},
 				{
 					"backtrace" : 7,
-					"fragment" : "-mfloat-abi=soft"
-				},
-				{
-					"backtrace" : 8,
 					"fragment" : "-mcpu=cortex-m3"
 				},
 				{
-					"backtrace" : 8,
+					"backtrace" : 7,
 					"fragment" : "-mthumb"
 				},
 				{
-					"backtrace" : 8,
+					"backtrace" : 7,
 					"fragment" : "-mthumb-interwork"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-mfloat-abi=soft"
 				},
 				{
 					"backtrace" : 9,
@@ -357,32 +357,32 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=E:/demo/template/build/template.map",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 3,
-				"fragment" : "-mcpu=cortex-m3",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 3,
-				"fragment" : "-mthumb",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 3,
-				"fragment" : "-mthumb-interwork",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 4,
 				"fragment" : "-T",
 				"role" : "flags"
 			},
 			{
-				"backtrace" : 4,
+				"backtrace" : 2,
 				"fragment" : "E:/demo/template/Cmake/STM32F103XX_FLASH.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=E:/demo/template/build/template.map",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-mcpu=cortex-m3",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-mthumb",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-mthumb-interwork",
 				"role" : "flags"
 			},
 			{
